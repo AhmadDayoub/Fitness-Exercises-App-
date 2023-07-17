@@ -14,6 +14,7 @@ Thanks for checking out this Application.
 - JSX
 - Java Script
 - Material UI
+- RapidAPI
 
 ## Author
 - [Ahmad Dayoub](https://www.linkedin.com/in/ahmad-dayoub-/)
